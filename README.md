@@ -1,1 +1,1 @@
-# slider
+ https://sajuchy.github.io/slider/
